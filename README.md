@@ -3,7 +3,7 @@ The project to build a website specializing in selling all kinds of wood
 
 Open the file !Guide.txt to read the instructions to run the web
 
-<b>User-side page</b> <br/>
+<h3>User-side page</h3> <br/>
 Home page
 ![pageHome](https://github.com/minh-phat/Website_selling_wooden_cases/assets/89958212/ffc0903c-1edd-4d1c-85fd-f1bfdbf97dae)
 Shop page
