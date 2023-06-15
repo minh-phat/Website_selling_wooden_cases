@@ -1,7 +1,7 @@
 # Selling_Woods_Web
 The project to build a website specializing in selling all kinds of wood
 
-Open the file !Guide.txt to read the instructions to run the web
+-Open the file !Guide.txt to read the instructions to run the web
 
 <b>User-side page</b> <br/>
 Home page
