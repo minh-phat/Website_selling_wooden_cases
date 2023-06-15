@@ -2,7 +2,7 @@
 The project to build a website specializing in selling all kinds of wood
 
 -Open the file !Guide.txt to read the instructions to run the web<br/>
--Account to login admin page<br/>
+-The Account to login admin page<br/>
 username: adminadmin <br/>
 password: adminadmin
 
