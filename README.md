@@ -1,7 +1,7 @@
 # Selling_Woods_Web
 The project to build a website specializing in selling all kinds of wood
 
--Open the file !Guide.txt to read the instructions to run the web<br/>
+-Open the file !Guide.docs to read the instructions to run the web<br/>
 -The Account to login admin page<br/>
 username: adminadmin <br/>
 password: adminadmin
